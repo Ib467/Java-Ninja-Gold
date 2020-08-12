@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+
+h1{
+	font-size: 2.5em;
+}
+
+.container{
+	display: flex;
+	
+}
+
+.farm{
+	display: grid;
+    min-height: 93px;
+    width: 22%;
+    padding: 8px;
+    margin: 15px;
+	border-radius: 5px;
+	box-shadow: 0 0 0 0.125em rgba(50, 115, 220, 0.25);
+	text-align: center;
+}
+
+.text{
+	border-radius: 13px;
+    box-shadow: 0 0 0 0.25em black;
+    max-width: 58%;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 22px;
+    
+.text p{
+	padding-top: 4px;
+    padding-left: 5px;
+    padding-bottom: 4px;
+}
+
+.earnedGold{
+	margin-top: 41px;
+    max-width: 45%;
+    border-radius: 5px;
+    box-shadow: 0 0 0 0.125em rgba(50, 115, 220, 0.25);
+    padding: 20px;
+    margin-left: 25px;
+}
+
+.red{
+	color: red;
+}
+
+
+.activities{
+	text-align: center;
+}
